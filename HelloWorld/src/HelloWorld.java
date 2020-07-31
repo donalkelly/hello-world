@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("hello world!");
 
-		// new branch testing
+		// merged to the main branch.
 		System.out.println("These are my new edits");
 	}
 
