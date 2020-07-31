@@ -6,7 +6,8 @@ public class HelloWorld {
 		
 		System.out.println("hello world!");
 
-		System.out.println("This is fun.");
+		// new branch testing
+		System.out.println("These are my new edits");
 	}
 
 }
