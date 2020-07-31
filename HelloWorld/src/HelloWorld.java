@@ -11,6 +11,9 @@ public class HelloWorld {
 
 		// this is lots of fun
 		System.out.println("These are my new edits. hahahah");
-}
-
+		
+		// Friday changes.
+		System.out.println("Happy friday!");
+		
+	}
 }
