@@ -8,6 +8,9 @@ public class HelloWorld {
 
 		// merged to the main branch.
 		System.out.println("These are my new edits");
-	}
+
+		// this is lots of fun
+		System.out.println("These are my new edits. hahahah");
+}
 
 }
